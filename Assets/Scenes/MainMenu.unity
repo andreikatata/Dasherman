@@ -641,9 +641,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Abertay University - Des304
-
-'
+  m_Text: Dasherman by Andrey Andreev
 --- !u!222 &1191271227
 CanvasRenderer:
   m_ObjectHideFlags: 0
